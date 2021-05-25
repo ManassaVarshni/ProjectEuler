@@ -29,7 +29,6 @@ print(sum)
 # METHOD 2
 
 # Since method 1 is slower, Sieve of Eratosthenes is implemented to find the prime numbers
-# This method is comparitively faster than method 1
 
 import numpy as np
 
